@@ -1,6 +1,5 @@
-## Transforming Policy-Car Swerving for Mitigating Stop-and-Go Traffic Waves
+## Transforming Policy-Car Swerving for Mitigating Stop-and-Go Traffic Waves: A Practical Jam-Absorption Driving Strategy
 
-**A Practical Jam-Absorption Driving Strategy**
 
 **[Background]** Stop-and-go waves, as a major form of freeway traffic congestion, cause severe and long-lasting adverse effects, including reduced traffic efficiency, increased driving risks, and higher vehicle emissions.
 

@@ -39,37 +39,37 @@ The results show that the proposed JAD strategy successfully suppresses the prop
 
 **[Baseline]**
 
-    *b_1_simu_base.py*
+    b_1_simu_base.py
 
-    *b_2_simu_base_plot_tx.py*
+    b_2_simu_base_plot_tx.py
 
 <img src="fig/Figure_11.png" width="40%">
 
 **[Stability and JAD Speed]**
 
-    *c_1_simu_stability.py*
+    c_1_simu_stability.py
 
-    *c_2_simu_stability_plot_tx.py*
+    c_2_simu_stability_plot_tx.py
 
 <img src="fig/Figure_12.png" width="40%">
 
 **[Simulation]**
 
-    *d_1_simu_jad.py*
+    d_1_simu_jad.py
 
-    *d_4_simu_jad_plot_detector.py*
+    d_4_simu_jad_plot_detector.py
 
 <img src="fig/Figure_13.png" width="40%">
 
-    *d_5_simu_jad_plot_headway.py*
+    d_5_simu_jad_plot_headway.py
 
 <img src="fig/Figure_14.png" width="40%">
 
-    *d_2_simu_jad_plot_tx.py*
+    d_2_simu_jad_plot_tx.py
 
 <img src="fig/Figure_15.png" width="40%">
 
-    *d_3_simu_jad_plot_tx_failed.py*
+    d_3_simu_jad_plot_tx_failed.py
 
 <img src="fig/Figure_16.png" width="40%">
 

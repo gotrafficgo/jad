@@ -42,7 +42,7 @@ The results show that the proposed JAD strategy successfully suppresses the prop
 
 *b_2_simu_base_plot_tx.py*
 
-<img src="fig/Figure_11.png" width="45%">
+<img src="fig/Figure_11.png" width="40%">
 
 **[Stability and JAD Speed]**
 
@@ -50,7 +50,7 @@ The results show that the proposed JAD strategy successfully suppresses the prop
 
 *c_2_simu_stability_plot_tx.py*
 
-<img src="fig/Figure_12.png" width="45%">
+<img src="fig/Figure_12.png" width="40%">
 
 **[Simulation]**
 

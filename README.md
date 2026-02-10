@@ -38,7 +38,7 @@ The results show that the proposed JAD strategy successfully suppresses the prop
 ## Code
 
 **[Baseline]**
-
+ 
     b_1_simu_base.py
 
     b_2_simu_base_plot_tx.py

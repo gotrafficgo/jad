@@ -18,22 +18,25 @@ The results show that the proposed JAD strategy successfully suppresses the prop
 **[Significance]** This paper is expected to take a significant step toward making JAD practical, **advancing it from a theoretical concept to a feasible and implementable strategy**.
 
 
+<br>
+
+
+## Real-World Observation
+
 <img src="fig/Figure_2.png" width="40%">
 
-**[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg**
+[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
 
-**[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg**
+[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
 
-**[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg**
+[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
 
-**[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg**
+[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
 
 
+<br>
  
 
- 
-
-  
 
 ## Code
 
@@ -74,9 +77,14 @@ The results show that the proposed JAD strategy successfully suppresses the prop
 <img src="fig/Figure_16.png" width="40%">
 
 
+<br>
+
 
 ## Preprint
 https://arxiv.org/abs/**
+
+
+<br>
 
 
 ## Citation

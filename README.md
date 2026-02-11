@@ -91,10 +91,52 @@ https://arxiv.org/abs/**
 
 If you find this work useful, please consider citing our paper:
 
-```bibtex
-@article{hezhengbing2026,
-  title={Transforming Policy-Car Swerving for Mitigating Stop-and-Go Traffic Waves: A Practice-Oriented Jam-Absorption Driving Strategy},
+```
+@article{he2026jad,
+  title={Transforming Police-Car Swerving for Mitigating Stop-and-Go Traffic Waves: A Practice-Oriented Jam-Absorption Driving Strategy},
   author={He, Zhengbing},
-  journal={arXiv preprint arXiv:},
-  year={2026}
+  journal={arXiv preprint},
+  year={2026},
+  note={arXiv:XXXX.XXXXX}
 }
+```
+
+<br>
+
+
+## Extended Reading
+
+```
+@article{he2026jadreview,
+ title={A Review of Stop-and-Go Traffic Wave Suppression Strategies: Variable Speed Limit vs. Jam-Absorption Driving}, 
+ author={Zhengbing He and Jorge Laval and Yu Han and Andreas Hegyi and Ryosuke Nishi and Cathy Wu},
+ year={2026},
+ volume={Accepted},
+ journal={IEEE Transactions on Intelligent Transportation Systems},
+ doi={10.1109/TITS.2026.3658644},
+ url={https://arxiv.org/abs/2504.11372}, 
+}
+
+@article{he2017jad,
+ title={A Jam-Absorption Driving Strategy for Mitigating Traffic Oscillations}, 
+ author={e, Zhengbing and Zheng, Liang and Song, Liying and Zhu, Ning},
+ year={2017},
+ volume={18},
+ number={4},
+ pages={802-813},
+ journal={IEEE Transactions on Intelligent Transportation Systems},
+ doi={10.1109/TITS.2026.3658644}
+}
+
+```
+
+
+<br>
+
+
+
+
+
+
+
+

@@ -106,30 +106,15 @@ If you find this work useful, please consider citing our paper:
 
 ## Extended Reading
 
-```
-@article{he2026jadreview,
- title={A Review of Stop-and-Go Traffic Wave Suppression Strategies: Variable Speed Limit vs. Jam-Absorption Driving}, 
- author={Zhengbing He and Jorge Laval and Yu Han and Andreas Hegyi and Ryosuke Nishi and Cathy Wu},
- year={2026},
- volume={Accepted},
- journal={IEEE Transactions on Intelligent Transportation Systems},
- doi={10.1109/TITS.2026.3658644},
- url={https://arxiv.org/abs/2504.11372}, 
-}
+- *He, Z., Laval, J., Han, Y., Hegyi, A., Nishi, R., Wu, C.*  
+  **A Review of Stop-and-Go Traffic Wave Suppression Strategies: Variable Speed Limit vs. Jam-Absorption Driving**  
+  IEEE Transactions on Intelligent Transportation Systems, Accepted, 2026.  
+  [Paper](https://arxiv.org/abs/2504.11372) | DOI: 10.1109/TITS.2026.3658644  
 
-@article{he2017jad,
- title={A Jam-Absorption Driving Strategy for Mitigating Traffic Oscillations}, 
- author={e, Zhengbing and Zheng, Liang and Song, Liying and Zhu, Ning},
- year={2017},
- volume={18},
- number={4},
- pages={802-813},
- journal={IEEE Transactions on Intelligent Transportation Systems},
- doi={10.1109/TITS.2026.3658644}
-}
-
-```
-
+- *He, Z., Zheng, L., Song, L., Zhu, N.*  
+  **A Jam-Absorption Driving Strategy for Mitigating Traffic Oscillations**  
+  IEEE Transactions on Intelligent Transportation Systems, 18(4): 802–813, 2017.  
+  [Paper](https://www.researchgate.net/profile/Zhengbing-He/publication/305400445_A_Jam-Absorption_Driving_Strategy_for_Mitigating_Traffic_Oscillations/links/5b3d7e474585150d23fde2ee/A-Jam-Absorption-Driving-Strategy-for-Mitigating-Traffic-Oscillations.pdf) | DOI: 10.1109/TITS.2016.2587699
 
 <br>
 

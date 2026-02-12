@@ -85,7 +85,7 @@ This paper is expected to take a significant step toward making JAD practical, *
 
 
 ## Preprint
-    https://arxiv.org/abs/**
+    [https://arxiv.org/abs/2504.11372](https://arxiv.org/abs/2504.11372)**
 
 
 <br>
@@ -101,7 +101,7 @@ If you find this work useful, please consider citing our paper:
   author={He, Zhengbing},
   journal={arXiv preprint},
   year={2026},
-  note={arXiv:XXXX.XXXXX}
+  doi={10.48550/arXiv.2602.10234}
 }
 ```
 

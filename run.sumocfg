@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <net-file value="highway.net.xml"/>
+        <route-files value="route.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="1600"/>
+        <step-length value="1.0"/>
+    </time>
+
+    <output>
+        <fcd-output value="trajectory.xml"/>
+        <fcd-output.distance value="true"/>
+    </output>
+</configuration>

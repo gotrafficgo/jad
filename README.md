@@ -25,7 +25,7 @@ This paper is expected to take a significant step toward making JAD practical, *
 
 ## Real-World Observation
 
-<img src="fig/Figure_2.png" width="40%">
+<img src="fig/swerving.png" width="100%">
 
 [Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
 
@@ -113,12 +113,14 @@ If you find this work useful, please consider citing our paper:
   IEEE Transactions on Intelligent Transportation Systems, Accepted, 2026.  
   [Paper](https://arxiv.org/abs/2504.11372) | DOI: 10.1109/TITS.2026.3658644  
 
-<img src="fig/Figure_1.png" width="70%">
+<img src="fig/JAD2017.png" width="70%">
 
 - *He, Z., Zheng, L., Song, L., Zhu, N.*  
   **A Jam-Absorption Driving Strategy for Mitigating Traffic Oscillations**  
   IEEE Transactions on Intelligent Transportation Systems, 18(4): 802–813, 2017.  
   [Paper](https://www.researchgate.net/profile/Zhengbing-He/publication/305400445_A_Jam-Absorption_Driving_Strategy_for_Mitigating_Traffic_Oscillations/links/5b3d7e474585150d23fde2ee/A-Jam-Absorption-Driving-Strategy-for-Mitigating-Traffic-Oscillations.pdf) | DOI: 10.1109/TITS.2016.2587699
+
+<img src="fig/JAD2026.png" width="70%">
 
 <br>
 

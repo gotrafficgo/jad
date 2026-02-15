@@ -21,16 +21,18 @@ This paper is expected to take a significant step toward making JAD practical, *
 
 <br>
 
+<br>
+
 
 <img src="fig/swerving.png" width="100%">
 
-[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
+*Police-car swerving at high speed on a freeway, California, USA. It shows that the police car was swerving at a high speed of about 70 km/h (44 mph) for roughly one minute. In the end, it caused the inflow to join a queue at a relatively low speed, implying a possible task aimed at slowing down traffic arrival.*
 
 [Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
 
 [Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
 
-[Video] Police-Car Swerving on Freeway, https://www.youtube.com/watch?v=_IvmWaSDorg
+
 
 <br>
 
